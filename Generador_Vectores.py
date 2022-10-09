@@ -18,7 +18,7 @@ import os
 
 
 ruta1 = "E:/CARLOS/"
-file2 = ruta1+'Training/'    #Seleccionar Training or Test
+file2 = ruta1+'Test/'    #Seleccionar Training or Test
 files_names1 = os.listdir(file2)  # hace una lista de las clases
 print(files_names1)
 
